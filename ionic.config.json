@@ -1,0 +1,7 @@
+{
+  "name": "kemionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
